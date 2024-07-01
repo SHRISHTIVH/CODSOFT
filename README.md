@@ -3,6 +3,5 @@ WebDev Internship Repository: A collection of my web development projects and co
 
 ## Table of content
 Tribute Page
-*Tribute Page
 
 Job Board
